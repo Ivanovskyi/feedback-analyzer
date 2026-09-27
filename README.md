@@ -8,8 +8,8 @@
 ## Step 1: Set up the project
 
 ```bash
-uv init 11_project_feedback_analyzer
-cd 11_project_feedback_analyzer
+uv init feedback_analyzer
+cd feedback_analyzer
 uv add "fastapi[standard]" google-genai python-dotenv pydantic streamlit requests
 ```
 
