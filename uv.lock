@@ -14,7 +14,7 @@ resolution-markers = [
 ]
 
 [[package]]
-name = "11-project-feedback-analyzer"
+name = "feedback-analyzer"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
